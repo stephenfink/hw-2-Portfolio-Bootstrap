@@ -33,7 +33,7 @@
     color: black;
 }
 .headlines{
-    font-weight: ;
+    
     font-family: 'Rowdies', cursive;
     text-decoration: underline
 
@@ -41,7 +41,11 @@
 .center{
     text-align: center;
     padding-right: 50px;
-   
+}
+
+.centerjust{
+    text-align: center;
+    padding-top: 7px;
 }
 .fitpic{
     width: 240px;
@@ -52,4 +56,8 @@
 .underline {
     text-decoration: underline;
     font-family: 'Rowdies', cursive;
+}
+
+.floatright {
+    float: right;
 }
