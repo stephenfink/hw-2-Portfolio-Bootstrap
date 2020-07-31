@@ -14,3 +14,20 @@
 .goals {
     padding-top: 20px;
 }
+.lighterBG{
+    background-color: lightgray;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.button {
+    text-align: center;
+    padding-top: 5px;
+}
+.pad{
+    padding-top: 20px;
+}
+.padC {
+    
+    margin-right: 30px ;
+    color: black;
+}
