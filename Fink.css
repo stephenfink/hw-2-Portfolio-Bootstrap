@@ -9,6 +9,7 @@
     border-left: solid black 7px;
     border-right: black solid 7px;
     padding: 0px;
+    margin-left: 10px;
 }
 
 .goals {
@@ -38,8 +39,12 @@
 }
 .center{
     text-align: center;
-    padding-right: 82px;
+    padding-right: 50px;
+   
 }
-.paddinggoal {
-    padding-right: 82px
+.fitpic{
+    width: 240px;
+    text-align: center;
+    margin: auto;
+    padding-right: 50px;
 }
