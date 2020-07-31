@@ -2,3 +2,15 @@
     background-color:#39393A;
     color: #F8F7F9;
 }
+.contrainer{
+    padding-top: 20px;
+}
+.cowboyB {
+    border-left: solid black 7px;
+    border-right: black solid 7px;
+    padding: 0px;
+}
+
+.goals {
+    padding-top: 20px;
+}
