@@ -35,6 +35,7 @@
 .headlines{
     font-weight: bold;
     font font-family: ;
+    text-decoration: underline
 
 }
 .center{
@@ -47,4 +48,7 @@
     text-align: center;
     margin: auto;
     padding-right: 50px;
+}
+.underline {
+    text-decoration: underline
 }
