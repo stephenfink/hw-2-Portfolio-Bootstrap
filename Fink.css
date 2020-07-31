@@ -20,6 +20,9 @@
     padding-top: 7px;
     padding-bottom: 7px;
 }
+.lighterbg{
+    background-color: lightgray
+}
 .button {
     text-align: center;
     padding-top: 5px;
@@ -69,4 +72,7 @@
 }
 .lessdarkl{
     color: rgb(141, 140, 140);
+}
+.padB{
+    padding-bottom: 3px;
 }
