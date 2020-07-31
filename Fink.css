@@ -61,3 +61,12 @@
 .floatright {
     float: right;
 }
+.right {
+    margin-left: 60%;
+}
+.darkl{
+    color: black;
+}
+.lessdarkl{
+    color: rgb(141, 140, 140);
+}
