@@ -28,6 +28,7 @@ This is my portfolio layout using bootstrap, CSS, and Google fonts.
    My overall layout is using the functions of CSS in which I can change one number to suit the needs of all the html pages.
 
    I thank you for your time.
+   GitHub.io link https://stephenfink.github.io/hw-2-Portfolio-Bootstrap/
     
 ## Contributors
 
