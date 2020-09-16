@@ -82,4 +82,9 @@
 .headlinesnoul{
     font-family: 'Rowdies', cursive
 }
+@media screen and (max-width: 400px){
+    body{
+        text-size-adjust: 14px;
+    }
 
+}
