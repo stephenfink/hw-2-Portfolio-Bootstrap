@@ -82,6 +82,9 @@
 .headlinesnoul{
     font-family: 'Rowdies', cursive
 }
+.fixfoot{
+    margin-top: 50px;
+}
 @media screen and (max-width: 400px){
     body{
         text-size-adjust: 14px;
